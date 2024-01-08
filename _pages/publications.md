@@ -119,6 +119,10 @@ Proceedings of the American Control Conference, pages 1499 – 1504, 2017.
 
 Miscellaneous
 ----
-
+**A. Lederer**, J. Umlauft, S. Hirche. **"Uniform Error and Posterior Variance Bounds for Gaussian Process Regression with Application to Safe Control"**.\
+arXiv preprint [arXiv:2101.05328](https://arxiv.org/pdf/2101.05328), 2021.\
+\
+**A. Lederer**, J. Umlauft, S. Hirche. **"Posterior Variance Analysis of Gaussian Processes with Application to Average Learning Curves"**. \
+arXiv preprint [arXiv:1906.01404](https://arxiv.org/pdf/1906.01404), 2019. 
 
 [^1]: Both authors contributed equally and the ordering of both authors is random.
