@@ -17,6 +17,11 @@ Before Joining ETH Zurich in October 2023, I obtained a PhD, Master's, and Bache
 
 News
 ======
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 | 12/23 | I attended IEEE Conference on Decision and Control in Singapore and presented our paper: "Risk-Sensitive Inhibitory Control for Safe Reinforcement Learning" |
 | 11/23 | I gave a presentation at the University of Groningen entitled "Safe Intelligent Systems for the Physical World" |
