@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Armin Lederer"
-  avatar           : "profile.png"
+  avatar           : "armin_upscaled.png"
   bio              : "Postdoctoral researcher at ETH Zurich"
   location         : #"Location"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=6yB84RUAAAAJ&hl=en"
-  email            :
+  email            : "armin.lederer@inf.ethz.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
