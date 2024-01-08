@@ -121,4 +121,4 @@ Miscellaneous
 ----
 
 
-[^*]: Both authors contributed equally and the ordering of both authors is random.
+[^1]: Both authors contributed equally and the ordering of both authors is random.
