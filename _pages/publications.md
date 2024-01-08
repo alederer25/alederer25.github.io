@@ -19,7 +19,7 @@ arXiv preprint [arXiv:2307.04415](https://arxiv.org/pdf/2303.17963), 2023.
 
 Journal Articles
 ----
-R. Römer[^*], **A. Lederer[^*]**, S. Tesfazgi, S. Hirche. **"Vision-Based Uncertainty-Aware Motion Planning based on Probabilistic Semantic Segmentation"**. \
+R. Römer[^1], **A. Lederer[^1]**, S. Tesfazgi, S. Hirche. **"Vision-Based Uncertainty-Aware Motion Planning based on Probabilistic Semantic Segmentation"**. \
 IEEE Robotics and Automation Letters, 8(11): 7825 – 7832, 2023. \
 \
 M. Omainska, J. Yamauchi, **A. Lederer**, S. Hirche, M. Fujita. **"Rigid Motion Gaussian Processes with SE(3) Kernel and Application to Visual Pursuit Control"**. \
@@ -41,20 +41,20 @@ IEEE Control Systems Letters, 5(3): 959 – 964, 2021.
 
 Conference Papers
 ----
-P. Bevanda, M. Beier, A. Lederer, S. Sosnowski, E. Hüllermeier, S. Hirche. Koopman Kernel Regression.\
-Accepted at Conference on Neural Information Processing Systems, 2023. (acceptance rate: 26.1%)\
+P. Bevanda, M. Beier, **A. Lederer**, S. Sosnowski, E. Hüllermeier, S. Hirche. **"Koopman Kernel Regression"**.\
+Accepted at Conference on Neural Information Processing Systems, 2023. **(acceptance rate: 26.1%)**\
 \
-A. Lederer, E. Noorani, J. Baras, S. Hirche. Risk-Sensitive Inhibitory Control for Safe Reinforcement Learning.\ 
+**A. Lederer**, E. Noorani, J. Baras, S. Hirche. **"Risk-Sensitive Inhibitory Control for Safe Reinforcement Learning"**.\ 
 Accepted at IEEE Conference on Decision and Control, 2023.\
 \
-A. Lederer*, A. Begzadić*, N. Das, S. Hirche. Safe Learning-Based Control of Elastic Joint Robots via Control Barrier Functions. \
-To Appear in Proceedings of the IFAC World Congress, 2023.\
+**A. Lederer[^1]**, A. Begzadic[^1], N. Das, S. Hirche. **"Safe Learning-Based Control of Elastic Joint Robots via Control Barrier Functions"**. \
+IFAC-PapersOnLine 56 (2): 2250-2256, 2023.\
 \
-S. Tesfazgi*, A. Lederer*, J. F. Kunz, A. Ordóñez-Conejo, S. Hirche. Model-Based Robot Control with Gaussian Process Online Learning: An Experimental Demonstration. \
-To Appear in Proceedings of the IFAC World Congress, 2023.\
+S. Tesfazgi[^1], **A. Lederer[^1]**, J. F. Kunz, A. Ordóñez-Conejo, S. Hirche. **"Model-Based Robot Control with Gaussian Process Online Learning: An Experimental Demonstration"**. \
+IFAC-PapersOnLine 56(2): 501-506, 2023.\
 \
-N. Das, J. Umlauft, A. Lederer, A. Capone, T. Beckers, S. Hirche. Deep Learning based Uncertainty Decomposition for Real-Time Control. \
-To Appear in Proceedings of the IFAC World Congress, 2023.\
+N. Das, J. Umlauft, **A. Lederer**, A. Capone, T. Beckers, S. Hirche. **"Deep Learning based Uncertainty Decomposition for Real-Time Control"**. \
+IFAC-PapersOnLine 56(2): 847-853, 2023.\
 \
 X. Dai*, A. Lederer*, Z. Yang, S. Hirche. Can Learning Deteriorate Control? Analyzing Computational Delays in Gaussian Process-Based Event-Triggered Online Learning. \
 Proceedings of the Conference on Learning for Dynamics and Control, pages 445 – 457, 2023.\
