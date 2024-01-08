@@ -46,4 +46,4 @@ Miscellaneous
 ----
 
 
-[^*] Both authors contributed equally and the ordering of both authors is random.
+[^*]: Both authors contributed equally and the ordering of both authors is random.
