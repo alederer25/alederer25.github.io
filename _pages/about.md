@@ -18,7 +18,7 @@ Before Joining ETH Zurich in October 2023, I obtained a PhD, Master's, and Bache
 News
 ======
 <style>
-td, th {
+table, td, th {
    border: none!important;
 }
 </style>
