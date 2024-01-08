@@ -56,13 +56,13 @@ IFAC-PapersOnLine 56(2): 501-506, 2023.\
 N. Das, J. Umlauft, **A. Lederer**, A. Capone, T. Beckers, S. Hirche. **"Deep Learning based Uncertainty Decomposition for Real-Time Control"**. \
 IFAC-PapersOnLine 56(2): 847-853, 2023.\
 \
-X. Dai*, A. Lederer*, Z. Yang, S. Hirche. Can Learning Deteriorate Control? Analyzing Computational Delays in Gaussian Process-Based Event-Triggered Online Learning. \
+X. Dai[^1], **A. Lederer[^1]**, Z. Yang, S. Hirche. **"Can Learning Deteriorate Control? Analyzing Computational Delays in Gaussian Process-Based Event-Triggered Online Learning"**. \
 Proceedings of the Conference on Learning for Dynamics and Control, pages 445 – 457, 2023.\
 \
-S. Curi*, A. Lederer*, S. Hirche, A. Krause. Safe Reinforcement Learning via Confidence-Based Filters. \
+S. Curi[^1], **A. Lederer[^1]**, S. Hirche, A. Krause. **"Safe Reinforcement Learning via Confidence-Based Filters"**. \
 Proceedings of the IEEE Conference on Decision and Control, pages 3409 – 3415, 2022.\
 \
-A. Lederer, M. Zhang, S. Tesfazgi, S. Hirche. Networked Online Learning for Control of Safety-Critical Resource-Constrained Systems based on Gaussian Processes. \
+**A. Lederer**, M. Zhang, S. Tesfazgi, S. Hirche. **"Networked Online Learning for Control of Safety-Critical Resource-Constrained Systems based on Gaussian Processes"**. \
 Proceedings of the IEEE Conference on Control Technology and Applications, pages 1285 – 1292, 2022.\
 \
 A. Ordonez-Conejo*, A. Lederer*, S. Hirche. Adaptive Low-Pass Filtering using Sliding Window Gaussian Processes. \
