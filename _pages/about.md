@@ -24,6 +24,8 @@ table, td, th {
 </style>
 
 | 12/23 | I attended IEEE Conference on Decision and Control in Singapore and presented our paper "Risk-Sensitive Inhibitory Control for Safe Reinforcement Learning". Check out the paper [here](https://arxiv.org/pdf/2310.01538.pdf)!|
+| 12/23 | Petar and Max presented our work on Koopman kernel regression at the Conference on Neural Information Processing Systems (NeurIPS) in New Orleans. You can find the paper [here](https://arxiv.org/pdf/2305.16215). |
+| 11/23 | I received a top reviewer award at NeurIPS 2023. |
 | 11/23 | I gave a presentation at the University of Groningen entitled "Safe Intelligent Systems for the Physical World" |
 | 10/23 | I gave an online seminar the University of Groningen with the topic "Safe and Computationally Efficient Online Learning Control using Gaussian Processes" |
 | 10/23 | I have started my new positition as postdoctoral researcher at the Learning & Adaptive Systems Group of ETH Zurich supervised by Prof. Andreas Krause |
