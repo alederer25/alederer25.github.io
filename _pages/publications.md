@@ -20,7 +20,7 @@ arXiv preprint [arXiv:2307.04415](https://arxiv.org/pdf/2303.17963), 2023.
 Journal Articles
 ----
 R. Römer[^1], **A. Lederer[^1]**, S. Tesfazgi, S. Hirche. **"Vision-Based Uncertainty-Aware Motion Planning based on Probabilistic Semantic Segmentation"**. \
-IEEE Robotics and Automation Letters, 8(11): 7825 – 7832, 2023. \
+IEEE Robotics and Automation Letters, 8(11): 7825 – 7832, 2023. doi:[https://arxiv.org/pdf/2305.16215](https://arxiv.org/pdf/2305.16215) [[preprint](https://arxiv.org/pdf/2209.06936.pdf)] [[video](https://doi.org/10.1109/LRA.2023.3322899/mm1)]\
 \
 M. Omainska, J. Yamauchi, **A. Lederer**, S. Hirche, M. Fujita. **"Rigid Motion Gaussian Processes with SE(3) Kernel and Application to Visual Pursuit Control"**. \
 IEEE Control Systems Letters, 7: 2665 – 2670, 2023.\
