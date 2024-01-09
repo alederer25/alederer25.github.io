@@ -7,7 +7,7 @@ redirect_from:
   - /contact
 ---
 
-### Armin Lederer
+### Dr.-Ing. Armin Lederer
 
 Learning & Adaptive Systems Group\
 Institute for Machine Learning\
