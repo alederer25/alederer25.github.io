@@ -77,7 +77,7 @@ doi:[10.1109/CDC51059.2022.9992470](https://doi.org/10.1109/CDC51059.2022.999247
 \
 **A. Lederer**, M. Zhang, S. Tesfazgi, S. Hirche. **"Networked Online Learning for Control of Safety-Critical Resource-Constrained Systems based on Gaussian Processes"**. \
 Proceedings of the IEEE Conference on Control Technology and Applications, pages 1285 – 1292, 2022.\
-doi:[10.1109/CCTA49430.2022.9966043](https://doi.org/10.1109/CCTA49430.2022.9966043) [[preprint](https://arxiv.org/pdf/2202.11491.pdf)]\
+doi:[10.1109/CCTA49430.2022.9966043](https://doi.org/10.1109/CCTA49430.2022.9966043) [[preprint](https://arxiv.org/pdf/2202.11491.pdf)] [[code](https://gitlab.lrz.de/online-GPs/cloud-GPs)]\
 \
 A. Ordonez-Conejo[^1], **A. Lederer[^1]**, S. Hirche. **"Adaptive Low-Pass Filtering using Sliding Window Gaussian Processes"**. \
 Proceedings of the European Control Conference, pages 2234 – 2240, 2022. \
@@ -101,7 +101,7 @@ doi:[10.1109/CDC45484.2021.9683772](https://doi.org/10.1109/CDC45484.2021.968377
 \
 **A. Lederer**, A. Ordonez-Conejo, K. Maier, W. Xiao, J. Umlauft, S. Hirche. **"Gaussian Process-Based Real-Time Learning for Safety Critical Applications"**. \
 Proceedings of the International Conference on Machine Learning, pages 6055 – 6064, 2021. **(acceptance rate: 21.5%)**\
-paper:[proceedings.mlr.press/v139/lederer21a.html](https://proceedings.mlr.press/v139/lederer21a.html) [[preprint](https://mediatum.ub.tum.de/doc/1619967/0i5jnfofriye1216q9pnpatqu.pdf)]\
+paper:[proceedings.mlr.press/v139/lederer21a.html](https://proceedings.mlr.press/v139/lederer21a.html) [[preprint](https://mediatum.ub.tum.de/doc/1619967/0i5jnfofriye1216q9pnpatqu.pdf)] [[code](https://gitlab.lrz.de/online-GPs/LoG-GPs)]\
 \
 **A. Lederer**, A. Capone, T. Beckers, J. Umlauft, S. Hirche. **"The Impact of Data on the Stability of Learning-Based Control"**. \
 Proceedings of the Conference on Learning for Dynamics and Control, pages 623 – 635, 2021.\
@@ -129,7 +129,7 @@ paper:[proceedings.mlr.press/v120/capone20a.html](http://proceedings.mlr.press/v
 \
 **A. Lederer**, A. Capone, S. Hirche. **"Parameter Optimization for Learning-based Control of Control-Affine Systems"**. \
 Proceedings of the Conference on Learning for Dynamics and Control, pages 465 – 475, 2020. \
-paper:[proceedings.mlr.press/v120/lederer20a.html](http://proceedings.mlr.press/v120/lederer20a.html) [[preprint](https://mediatum.ub.tum.de/doc/1540914/document.pdf)]\
+paper:[proceedings.mlr.press/v120/lederer20a.html](http://proceedings.mlr.press/v120/lederer20a.html) [[preprint](https://mediatum.ub.tum.de/doc/1540914/document.pdf)] [[code](https://github.com/alederer25/pop4lbc)]\
 \
 J. Umlauft, T. Beckers, A. Capone, **A. Lederer**, S. Hirche. **"Smart Forgetting for Safe Online Learning with Gaussian Processes"**. \
 Proceedings of the Conference on Learning for Dynamics and Control, pages 160 – 169, 2020.\
