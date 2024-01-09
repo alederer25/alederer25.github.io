@@ -12,7 +12,7 @@ redirect_from:
 Learning & Adaptive Systems Group\
 Institute for Machine Learning\
 Department of Computer Science\
-ETH Zurich\
+ETH Zurich
 
 Andreasstr. 5, OAT Y28\
 8050 Zurich, Switzerland
