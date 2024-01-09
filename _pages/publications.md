@@ -109,47 +109,51 @@ paper:[proceedings.mlr.press/v144/lederer21a.html](http://proceedings.mlr.press/
 \
 **A. Lederer**, Q. Hao, S. Hirche. **"Confidence Regions for Simulations with Learned Probabilistic Models"**. \
 Proceedings of the American Control Conference, pages 3947 – 3952, 2020.\
-doi:[]() [[preprint]()]\
+doi:[10.23919/ACC45564.2020.9147978](https://doi.org/10.23919/ACC45564.2020.9147978) [[preprint](https://mediatum.ub.tum.de/doc/1546355/rqo93ez4mo526m8kium1c9rs3.root.pdf)]\
 \
 A. Capone, **A. Lederer**, S. Hirche. **"Confidence Regions for Predictions of Online Learning-Based Control"**. \
 Proceedings of the 21th IFAC World Congress, volume 53 of IFAC-PapersOnLine, pages 983 – 988, 2020.\
-doi:[]() [[preprint]()]\
+doi:[10.1016/j.ifacol.2020.12.1278](https://doi.org/10.1016/j.ifacol.2020.12.1278)\
 \
 **A. Lederer**, M. Kessler, S. Hirche. **"GP3: A Sampling-based Analysis Framework for Gaussian Processes"**. \
 Proceedings of the 21th IFAC World Congress, volume 53 of IFAC-PapersOnLine, pages 983 – 988, 2020.\
-doi:[]() [[preprint]()]\
+doi:[10.1016/j.ifacol.2020.12.1273](https://doi.org/10.1016/j.ifacol.2020.12.1273) [[preprint](https://arxiv.org/pdf/2006.07871)]\
 \
 W. Xiao[^1], **A. Lederer[^1]**, S. Hirche. **"Learning Stable Nonparametric Dynamical Systems with Gaussian Process Regression"**. \
 Proceedings of the 21th IFAC World Congress, volume 53 of IFAC-PapersOnLine, pages 1194 – 1199, 2020.\
-doi:[]() [[preprint]()]\
+doi:[10.1016/j.ifacol.2020.12.1335](https://doi.org/10.1016/j.ifacol.2020.12.1335) [[preprint](https://arxiv.org/pdf/2006.07868)]\
 \
 A. Capone, G. Noske, J. Umlauft, T. Beckers, **A. Lederer**, S. Hirche. **"Localized Active Learning of Gaussian Process State Space Models"**. \
 Proceedings of the Conference on Learning for Dynamics and Control, pages 490 – 499, 2020.\
-doi:[]() [[preprint]()]\
+paper:[proceedings.mlr.press/v120/capone20a.html](http://proceedings.mlr.press/v120/capone20a.html) [[preprint](https://arxiv.org/pdf/2005.02191.pdf)]\
 \
 **A. Lederer**, A. Capone, S. Hirche. **"Parameter Optimization for Learning-based Control of Control-Affine Systems"**. \
 Proceedings of the Conference on Learning for Dynamics and Control, pages 465 – 475, 2020. \
-doi:[]() [[preprint]()]\
+paper:[proceedings.mlr.press/v120/lederer20a.html](http://proceedings.mlr.press/v120/lederer20a.html) [[preprint](https://mediatum.ub.tum.de/doc/1540914/document.pdf)]\
 \
 J. Umlauft, T. Beckers, A. Capone, **A. Lederer**, S. Hirche. **"Smart Forgetting for Safe Online Learning with Gaussian Processes"**. \
 Proceedings of the Conference on Learning for Dynamics and Control, pages 160 – 169, 2020.\
-doi:[]() [[preprint]()]\
+paper:[proceedings.mlr.press/v120/umlauft20a.html](http://proceedings.mlr.press/v120/umlauft20a.html) [[preprint](https://scholar.archive.org/work/w7zxal2xgnc4ljo5erczcjiw3m/access/wayback/http://proceedings.mlr.press/v120/umlauft20a/umlauft20a.pdf)]\
 \
 **A. Lederer**, S. Hirche. **"Local Asymptotic Stability Analysis and Region of Attraction Estimation with Gaussian Processes"**. \
 Proceedings of the IEEE Conference on Decision and Control, pages 1766 – 1771, 2019.\
-doi:[]() [[preprint]()]\
+doi:[10.1109/CDC40024.2019.9029489](https://doi.org/10.1109/CDC40024.2019.9029489) [[preprint](https://scholar.archive.org/work/7qllnqxg4nhwjeiy3f5rd7xe2m/access/wayback/http://mediatum.ub.tum.de/doc/1521854/file.pdf)]\
 \
 **A. Lederer**, J. Umlauft, S. Hirche. **"Uniform Error Bounds for Gaussian Process Regression with Application to Safe Control"**. \
 Advances in Neural Information Processing Systems, pages 659 – 669, 2019. **(acceptance rate: 21.6%)**\
-doi:[]() [[preprint]()]\
+paper:[proceedings.neurips.cc/paper/2019](https://proceedings.neurips.cc/paper/2019/hash/fe73f687e5bc5280214e0486b273a5f9-Abstract.html) [[code](https://proceedings.neurips.cc/paper_files/paper/2019/file/fe73f687e5bc5280214e0486b273a5f9-Supplemental.zip)]\
 \
 J. Umlauft, **A. Lederer**, S. Hirche. **"Learning Stable Gaussian Process State Space Models"**. \
 Proceedings of the American Control Conference, pages 1499 – 1504, 2017.\
-doi:[]() [[preprint]()]
+doi:[10.23919/ACC.2017.7963165](https://doi.org/10.23919/ACC.2017.7963165) [[preprint](https://scholar.archive.org/work/gqhaxorszncvvec2rfe36mz7gq/access/wayback/http://mediatum.ub.tum.de/doc/1345928/document.pdf)]
 
 
 Miscellaneous
 ----
+**A. Lederer**. **"Gaussian Processes in Control: Performance Guarantees through Efficient Learning"**\
+PhD Thesis, Technical University of Munich, 2023.\
+[link](https://d-nb.info/1299454402/34)\
+\
 **A. Lederer**, J. Umlauft, S. Hirche. **"Uniform Error and Posterior Variance Bounds for Gaussian Process Regression with Application to Safe Control"**.\
 arXiv preprint [arXiv:2101.05328](https://arxiv.org/pdf/2101.05328), 2021.\
 \
