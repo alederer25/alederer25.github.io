@@ -77,35 +77,35 @@ doi:[10.1109/CDC51059.2022.9992470](https://doi.org/10.1109/CDC51059.2022.999247
 \
 **A. Lederer**, M. Zhang, S. Tesfazgi, S. Hirche. **"Networked Online Learning for Control of Safety-Critical Resource-Constrained Systems based on Gaussian Processes"**. \
 Proceedings of the IEEE Conference on Control Technology and Applications, pages 1285 – 1292, 2022.\
-doi:[]() [[preprint]()]\
+doi:[10.1109/CCTA49430.2022.9966043](https://doi.org/10.1109/CCTA49430.2022.9966043) [[preprint](https://arxiv.org/pdf/2202.11491.pdf)]\
 \
 A. Ordonez-Conejo[^1], **A. Lederer[^1]**, S. Hirche. **"Adaptive Low-Pass Filtering using Sliding Window Gaussian Processes"**. \
 Proceedings of the European Control Conference, pages 2234 – 2240, 2022. \
-doi:[]() [[preprint]()]\
+doi:[10.23919/ECC55457.2022.9838285](https://doi.org/10.23919/ECC55457.2022.9838285) [[preprint](https://arxiv.org/pdf/2111.03617.pdf)]\
 \
 A. Capone, **A. Lederer**, S. Hirche. **"Gaussian Process Uniform Error Bounds with Unknown Hyperparameters for Safety-Critical Applications"**. \
 Proceedings of the International Conference on Machine Learning, pages 2609 – 2624, 2022. **(acceptance rate: 21.9%)**\
-doi:[]() [[preprint]()]\
+paper:[proceedings.mlr.press/v162/capone22a.html](https://proceedings.mlr.press/v162/capone22a.html) [[preprint](https://arxiv.org/pdf/2109.02606.pdf)]\
 \
 Z. Yang, S. Sosnowski, Q. Liu, J Jiao, **A. Lederer**, S. Hirche. **"Distributed Learning Consensus Control for Unknown Nonlinear Multi-Agent Systems Based on Gaussian Processes"**. \
 Proceedings of the IEEE Conference on Decision and Control, pages 4406 – 4411, 2021. \
-doi:[]() [[preprint]()]\
+doi:[10.1109/CDC45484.2021.9683522](https://doi.org/10.1109/CDC45484.2021.9683522) [[preprint](https://arxiv.org/pdf/2103.15929.pdf)]\
 \
 S. Tesfazgi, **A. Lederer**, S. Hirche. **"Inverse Reinforcement Learning: A Control Lyapunov Approach"**. \
 Proceedings of the IEEE Conference on Decision and Control, pages 3627 – 3632, 2021.\
-doi:[]() [[preprint]()]\
+doi:[10.1109/CDC45484.2021.9683494](https://doi.org/10.1109/CDC45484.2021.9683494) [[preprint](https://arxiv.org/pdf/2104.04483.pdf)]\
 \
 P. Budde gen. Dohmann[^1], **A. Lederer[^1]**, M. Dißemond, S. Hirche. **"Distributed Bayesian Online Learning for Cooperative Manipulation"**. \
 Proceedings of the IEEE Conference on Decision and Control, pages 2888 – 2895, 2021.\
-doi:[]() [[preprint]()]\
+doi:[10.1109/CDC45484.2021.9683772](https://doi.org/10.1109/CDC45484.2021.9683772) [[preprint](https://arxiv.org/pdf/2104.04342.pdf)]\
 \
 **A. Lederer**, A. Ordonez-Conejo, K. Maier, W. Xiao, J. Umlauft, S. Hirche. **"Gaussian Process-Based Real-Time Learning for Safety Critical Applications"**. \
 Proceedings of the International Conference on Machine Learning, pages 6055 – 6064, 2021. **(acceptance rate: 21.5%)**\
-doi:[]() [[preprint]()]\
+paper:[proceedings.mlr.press/v139/lederer21a.html](https://proceedings.mlr.press/v139/lederer21a.html) [[preprint](https://mediatum.ub.tum.de/doc/1619967/0i5jnfofriye1216q9pnpatqu.pdf)]\
 \
 **A. Lederer**, A. Capone, T. Beckers, J. Umlauft, S. Hirche. **"The Impact of Data on the Stability of Learning-Based Control"**. \
 Proceedings of the Conference on Learning for Dynamics and Control, pages 623 – 635, 2021.\
-doi:[]() [[preprint]()]\
+paper:[proceedings.mlr.press/v144/lederer21a.html](http://proceedings.mlr.press/v144/lederer21a.html) \
 \
 **A. Lederer**, Q. Hao, S. Hirche. **"Confidence Regions for Simulations with Learned Probabilistic Models"**. \
 Proceedings of the American Control Conference, pages 3947 – 3952, 2020.\
