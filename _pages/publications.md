@@ -53,7 +53,7 @@ Advances in Neural Information Processing Systems (Accepted), 2023. **(acceptanc
 \
 **A. Lederer**, E. Noorani, J. Baras, S. Hirche. **"Risk-Sensitive Inhibitory Control for Safe Reinforcement Learning"**.\
 Proceedings of the IEEE Conference on Decision and Control (Accepted), 2023.\
-[[preprint](https://arxiv.org/pdf/2305.16215)]\
+[[preprint](https://arxiv.org/pdf/2310.01538)]\
 \
 **A. Lederer[^1]**, A. Begzadic[^1], N. Das, S. Hirche. **"Safe Learning-Based Control of Elastic Joint Robots via Control Barrier Functions"**. \
 IFAC-PapersOnLine 56 (2): 2250-2256, 2023.\
@@ -69,11 +69,11 @@ doi:[10.1016/j.ifacol.2023.10.1671](https://doi.org/10.1016/j.ifacol.2023.10.167
 \
 X. Dai[^1], **A. Lederer[^1]**, Z. Yang, S. Hirche. **"Can Learning Deteriorate Control? Analyzing Computational Delays in Gaussian Process-Based Event-Triggered Online Learning"**. \
 Proceedings of the Conference on Learning for Dynamics and Control, pages 445 – 457, 2023.\
-doi:[]() [[preprint]()]\
+paper:[proceedings.mlr.press/v211/dai23a.html](https://proceedings.mlr.press/v211/dai23a.html) [[preprint](https://arxiv.org/pdf/2305.08169.pdf)]\
 \
 S. Curi[^1], **A. Lederer[^1]**, S. Hirche, A. Krause. **"Safe Reinforcement Learning via Confidence-Based Filters"**. \
 Proceedings of the IEEE Conference on Decision and Control, pages 3409 – 3415, 2022.\
-doi:[]() [[preprint]()]\
+doi:[10.1109/CDC51059.2022.9992470](https://doi.org/10.1109/CDC51059.2022.9992470) [[preprint](https://arxiv.org/pdf/2207.01337.pdf)]\
 \
 **A. Lederer**, M. Zhang, S. Tesfazgi, S. Hirche. **"Networked Online Learning for Control of Safety-Critical Resource-Constrained Systems based on Gaussian Processes"**. \
 Proceedings of the IEEE Conference on Control Technology and Applications, pages 1285 – 1292, 2022.\
