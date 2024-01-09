@@ -33,7 +33,7 @@ doi:[10.1109/TAC.2022.3205424](https://doi.org/10.1109/TAC.2022.3205424) [[prepr
 \
 P. Bevanda, M. Beier, S. Kerz, **A. Lederer**, S. Sosnowski, S. Hirche. **"Diffeomorphically Learning Stable Koopman Operators"**. \
 IEEE Control Systems Letters, 6: 3427-3432, 2022.\
-doi:[10.1109/LCSYS.2022.3184927](https://doi.org/10.1109/LCSYS.2022.3184927) [[preprint](https://arxiv.org/pdf/2112.04085.pdf)]\
+doi:[10.1109/LCSYS.2022.3184927](https://doi.org/10.1109/LCSYS.2022.3184927) [[preprint](https://arxiv.org/pdf/2112.04085.pdf)] [[code](https://gitlab.lrz.de/KoopmanLearning/KoopmanizingFlows)]\
 \
 **A. Lederer**, A. Capone, J. Umlauft, S. Hirche. **"How Training Data Impacts Performance in Learning-based Control"**. \
 IEEE Control Systems Letters, 5(3): 905 – 910, 2021.\
@@ -49,7 +49,7 @@ Conference Papers
 ----
 P. Bevanda, M. Beier, **A. Lederer**, S. Sosnowski, E. Hüllermeier, S. Hirche. **"Koopman Kernel Regression"**.\
 Advances in Neural Information Processing Systems (Accepted), 2023. **(acceptance rate: 26.1%)**\
-[[preprint](https://arxiv.org/pdf/2305.16215)]
+[[preprint](https://arxiv.org/pdf/2305.16215)] [[code](https://github.com/TUM-ITR/koopcore)]
 \
 **A. Lederer**, E. Noorani, J. Baras, S. Hirche. **"Risk-Sensitive Inhibitory Control for Safe Reinforcement Learning"**.\
 Proceedings of the IEEE Conference on Decision and Control (Accepted), 2023.\
@@ -85,7 +85,7 @@ doi:[10.23919/ECC55457.2022.9838285](https://doi.org/10.23919/ECC55457.2022.9838
 \
 A. Capone, **A. Lederer**, S. Hirche. **"Gaussian Process Uniform Error Bounds with Unknown Hyperparameters for Safety-Critical Applications"**. \
 Proceedings of the International Conference on Machine Learning, pages 2609 – 2624, 2022. **(acceptance rate: 21.9%)**\
-paper:[proceedings.mlr.press/v162/capone22a.html](https://proceedings.mlr.press/v162/capone22a.html) [[preprint](https://arxiv.org/pdf/2109.02606.pdf)]\
+paper:[proceedings.mlr.press/v162/capone22a.html](https://proceedings.mlr.press/v162/capone22a.html) [[preprint](https://arxiv.org/pdf/2109.02606.pdf)] [[code](https://github.com/aCapone1/gauss proc unknown hyp)]\
 \
 Z. Yang, S. Sosnowski, Q. Liu, J Jiao, **A. Lederer**, S. Hirche. **"Distributed Learning Consensus Control for Unknown Nonlinear Multi-Agent Systems Based on Gaussian Processes"**. \
 Proceedings of the IEEE Conference on Decision and Control, pages 4406 – 4411, 2021. \
@@ -109,7 +109,7 @@ paper:[proceedings.mlr.press/v144/lederer21a.html](http://proceedings.mlr.press/
 \
 **A. Lederer**, Q. Hao, S. Hirche. **"Confidence Regions for Simulations with Learned Probabilistic Models"**. \
 Proceedings of the American Control Conference, pages 3947 – 3952, 2020.\
-doi:[10.23919/ACC45564.2020.9147978](https://doi.org/10.23919/ACC45564.2020.9147978) [[preprint](https://mediatum.ub.tum.de/doc/1546355/rqo93ez4mo526m8kium1c9rs3.root.pdf)]\
+doi:[10.23919/ACC45564.2020.9147978](https://doi.org/10.23919/ACC45564.2020.9147978) [[preprint](https://mediatum.ub.tum.de/doc/1546355/rqo93ez4mo526m8kium1c9rs3.root.pdf)] [[code](https://github.com/alederer25/MC4LPM)]\
 \
 A. Capone, **A. Lederer**, S. Hirche. **"Confidence Regions for Predictions of Online Learning-Based Control"**. \
 Proceedings of the 21th IFAC World Congress, volume 53 of IFAC-PapersOnLine, pages 983 – 988, 2020.\
@@ -117,7 +117,7 @@ doi:[10.1016/j.ifacol.2020.12.1278](https://doi.org/10.1016/j.ifacol.2020.12.127
 \
 **A. Lederer**, M. Kessler, S. Hirche. **"GP3: A Sampling-based Analysis Framework for Gaussian Processes"**. \
 Proceedings of the 21th IFAC World Congress, volume 53 of IFAC-PapersOnLine, pages 983 – 988, 2020.\
-doi:[10.1016/j.ifacol.2020.12.1273](https://doi.org/10.1016/j.ifacol.2020.12.1273) [[preprint](https://arxiv.org/pdf/2006.07871)]\
+doi:[10.1016/j.ifacol.2020.12.1273](https://doi.org/10.1016/j.ifacol.2020.12.1273) [[preprint](https://arxiv.org/pdf/2006.07871)] [[code](https://github.com/alederer25/gp3)]\
 \
 W. Xiao[^1], **A. Lederer[^1]**, S. Hirche. **"Learning Stable Nonparametric Dynamical Systems with Gaussian Process Regression"**. \
 Proceedings of the 21th IFAC World Congress, volume 53 of IFAC-PapersOnLine, pages 1194 – 1199, 2020.\
