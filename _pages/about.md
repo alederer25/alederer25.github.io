@@ -23,6 +23,7 @@ table, td, th {
 }
 </style>
 
+| 01/24 | I have given a guest lecture at UC San Diego on Safe Model-Bsaed Control with Gaussian Processes. You can watch the talk online [here](https://youtu.be/0LoYwunmKDg?si=TF_zmGJE-8u_0Bwh). |
 | 01/24 | Our paper "Cooperative Learning with Gaussian Processes for Euler-Lagrange Systems Tracking Control under Switching Topologies" has been accepted to the American Control Conference! |
 | 12/23 | I attended IEEE Conference on Decision and Control in Singapore and presented our paper "Risk-Sensitive Inhibitory Control for Safe Reinforcement Learning". Check out the paper [here](https://arxiv.org/pdf/2310.01538.pdf)!|
 | 12/23 | Petar and Max presented our work on Koopman kernel regression at the Conference on Neural Information Processing Systems (NeurIPS) in New Orleans. You can find the paper [here](https://arxiv.org/pdf/2305.16215). |
