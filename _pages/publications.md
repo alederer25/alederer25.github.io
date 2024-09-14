@@ -15,7 +15,7 @@ Preprints
 arxiv preprint [arXiv:2408.16144](https://arxiv.org/pdf/2408.16144), 2024.\
 \
 **A. Lederer**, J. Umlauft, S. Hirche. **"Episodic Gaussian Process-Based Learning Control with Vanishing Tracking Errors"**.\
-arXiv preprint [arXiv:2307.04415](https://arxiv.org/pdf/2307.04415), 2023.\
+arXiv preprint [arXiv:2307.04415](https://arxiv.org/pdf/2307.04415), 2023.
 
 
 Journal Articles
