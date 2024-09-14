@@ -11,7 +11,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 Preprints
 ----
-**A. Lederer[^1]**, A. Begzadic, S. Hirche, J. Cortes, S. Herbert. **Safe Barrier-Constrained Control of Uncertain Systems via Event-triggered Learning**.\
+**A. Lederer[^1]**, A. Begzadic, S. Hirche, J. Cortes, S. Herbert. **"Safe Barrier-Constrained Control of Uncertain Systems via Event-triggered Learning"**.\
 arxiv preprint [arXiv:2408.16144](https://arxiv.org/pdf/2408.16144), 2024.\
 \
 **A. Lederer**, J. Umlauft, S. Hirche. **"Episodic Gaussian Process-Based Learning Control with Vanishing Tracking Errors"**.\
@@ -20,7 +20,7 @@ arXiv preprint [arXiv:2307.04415](https://arxiv.org/pdf/2307.04415), 2023.
 
 Journal Articles
 ----
-S. Tesfazgi, L. Sprandl, **A. Lederer**, S. Hirche. **Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes**.\
+S. Tesfazgi, L. Sprandl, **A. Lederer**, S. Hirche. **"Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes"**.\
 IEEE Open Journal of Control Systems, 2024.\
 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10643266)] [[preprint](https://arxiv.org/pdf/2405.08756)]\
 \
@@ -52,11 +52,11 @@ IEEE Control Systems Letters, 5(3): 959 – 964, 2021.\
 
 Conference Papers
 ----
-S. Tesfazgi, M. Keßler, E. Trigili, **A. Lederer**, S. Hirche. **Data-driven Force Observer for Human-Robot Interaction with Series Elastic Actuators using Gaussian Processes**.\
+S. Tesfazgi, M. Keßler, E. Trigili, **"A. Lederer**, S. Hirche. **Data-driven Force Observer for Human-Robot Interaction with Series Elastic Actuators using Gaussian Processes"**.\
 Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (Accepted), 2024.\
 [[preprint](https://arxiv.org/pdf/2405.08711)]\
 \
-Z. Yang, S. Dong, **A. Lederer**, X. Dai, S. Chen, S. Sosnowski, G. Hattab, S. Hirche. **Cooperative Learning with Gaussian Processes for Euler-Lagrange Systems Tracking Control under Switching Topologies**.\
+Z. Yang, S. Dong, **A. Lederer**, X. Dai, S. Chen, S. Sosnowski, G. Hattab, S. Hirche. **"Cooperative Learning with Gaussian Processes for Euler-Lagrange Systems Tracking Control under Switching Topologies"**.\
 Proceedings of the American Control Conference (Accepted), 2024.\
 [[preprint](https://arxiv.org/pdf/2402.03048)]\
 \
@@ -167,11 +167,11 @@ Proceedings of the American Control Conference, pages 1499 – 1504, 2017.\
 
 Miscellaneous
 ----
-M. Beier, P. Bevanda, **A. Lederer**, A. Capone, S. Sosnowski, S. Hirche. **Learning Representations through Latent Timeseries Symmetries: Koopman-Equivariant Gaussian Processes**.\
+M. Beier, P. Bevanda, **A. Lederer**, A. Capone, S. Sosnowski, S. Hirche. **"Learning Representations through Latent Timeseries Symmetries: Koopman-Equivariant Gaussian Processes"**.\
 ICML 2024 Workshop on Geometry-grounded Representation Learning and Generative Modeling, 2024.\
 [[paper](https://openreview.net/pdf?id=9qDuVMAxK3)]\
 \
-S. Kerz, **A. Lederer**, M. Leibold, D. Wollherr. **Safe online nonstochastic control from data**.\
+S. Kerz, **A. Lederer**, M. Leibold, D. Wollherr. **"Safe online nonstochastic control from data"**.\
 ICML 2024 Workshop: Foundations of Reinforcement Learning and Control--Connections and Perspectives, 2024.\
 [[paper](https://openreview.net/pdf?id=pteiJvs060)]\
 \
