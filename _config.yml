@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Armin Lederer"
 title_separator          : "-"
 name                     : &name "Armin Lederer"
-description              : &description "Postdoctoral researcher at ETH Zurich"
+description              : &description "Assistant Professor at National University of Singapore"
 url                      : https://alederer25.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alederer25/alederer25.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=6yB84RUAAAAJ&hl=en"
-  email            : "armin.lederer@inf.ethz.ch"
+  email            : "armin.lederer@nus.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
