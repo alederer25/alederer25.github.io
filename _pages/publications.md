@@ -20,35 +20,39 @@ arXiv preprint [arXiv:2307.04415](https://arxiv.org/pdf/2307.04415), 2023.
 
 Journal Articles
 ----
-**A. Lederer**, E. Noorani, J. Baras, S. Hirche. **"Risk-Sensitive Safety Filters for Reinforcement Learning with Probabilistic Guarantees"**.\
+[9] **A. Lederer**, E. Noorani, A. Krause. **"Distributed Risk-Sensitive Safety Filters for Uncertain Discrete-Time Systems"**.\
+IEEE Control Systems Letters, 2025.\
+[[paper](https://ieeexplore.ieee.org/document/11036751)] [[preprint](https://arxiv.org/pdf/2506.07347)]\
+\
+[8] **A. Lederer**, E. Noorani, J. Baras, S. Hirche. **"Risk-Sensitive Safety Filters for Reinforcement Learning with Probabilistic Guarantees"**.\
 IEEE Transactions on Automatic Control, 2025.\
 [[paper](https://ieeexplore.ieee.org/abstract/document/11020782)] [[preprint](https://github.com/alederer25/alederer25.github.io/blob/master/files/TAC3575565.pdf)]\
 \
-S. Tesfazgi, L. Sprandl, **A. Lederer**, S. Hirche. **"Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes"**.\
+[7] S. Tesfazgi, L. Sprandl, **A. Lederer**, S. Hirche. **"Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes"**.\
 IEEE Open Journal of Control Systems, 2024.\
 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10643266)] [[preprint](https://arxiv.org/pdf/2405.08756)]\
 \
-R. Römer[^1], **A. Lederer[^1]**, S. Tesfazgi, S. Hirche. **"Vision-Based Uncertainty-Aware Motion Planning based on Probabilistic Semantic Segmentation"**. \
+[6] R. Römer[^1], **A. Lederer[^1]**, S. Tesfazgi, S. Hirche. **"Vision-Based Uncertainty-Aware Motion Planning based on Probabilistic Semantic Segmentation"**. \
 IEEE Robotics and Automation Letters, 8(11): 7825 – 7832, 2023. \
 [[paper](https://doi.org/10.1109/LRA.2023.3322899)] [[preprint](https://arxiv.org/pdf/2209.06936.pdf)] [[video](https://doi.org/10.1109/LRA.2023.3322899/mm1)]\
 \
-M. Omainska, J. Yamauchi, **A. Lederer**, S. Hirche, M. Fujita. **"Rigid Motion Gaussian Processes with SE(3) Kernel and Application to Visual Pursuit Control"**. \
+[5] M. Omainska, J. Yamauchi, **A. Lederer**, S. Hirche, M. Fujita. **"Rigid Motion Gaussian Processes with SE(3) Kernel and Application to Visual Pursuit Control"**. \
 IEEE Control Systems Letters, 7: 2665 – 2670, 2023.\
 [[paper](https://doi.org/10.1109/LCSYS.2023.3287507)] [[preprint](https://mediatum.ub.tum.de/doc/1725370/m9kl65ypic4gux0em42sbjw4t.Rigid%20Motion.pdf)]\
 \
-**A. Lederer**, Z. Yang, J. Jiao, and S. Hirche. **"Cooperative Control of Uncertain Multi-Agent Systems via Distributed Gaussian Processes"**. \
+[4] **A. Lederer**, Z. Yang, J. Jiao, and S. Hirche. **"Cooperative Control of Uncertain Multi-Agent Systems via Distributed Gaussian Processes"**. \
 IEEE Transactions on Automatic Control, 68(5): 3091 – 3098, 2022.\
 [[paper](https://doi.org/10.1109/TAC.2022.3205424)] [[preprint](https://mediatum.ub.tum.de/doc/1689706/n2ur0ljcirxet5mwy6q30zo6c.TAC3205424.pdf)]\
 \
-P. Bevanda, M. Beier, S. Kerz, **A. Lederer**, S. Sosnowski, S. Hirche. **"Diffeomorphically Learning Stable Koopman Operators"**. \
+[3] P. Bevanda, M. Beier, S. Kerz, **A. Lederer**, S. Sosnowski, S. Hirche. **"Diffeomorphically Learning Stable Koopman Operators"**. \
 IEEE Control Systems Letters, 6: 3427-3432, 2022.\
 [[paper](https://doi.org/10.1109/LCSYS.2022.3184927)] [[preprint](https://arxiv.org/pdf/2112.04085.pdf)] [[code](https://gitlab.lrz.de/KoopmanLearning/KoopmanizingFlows)]\
 \
-**A. Lederer**, A. Capone, J. Umlauft, S. Hirche. **"How Training Data Impacts Performance in Learning-based Control"**. \
+[2] **A. Lederer**, A. Capone, J. Umlauft, S. Hirche. **"How Training Data Impacts Performance in Learning-based Control"**. \
 IEEE Control Systems Letters, 5(3): 905 – 910, 2021.\
 [[paper](https://doi.org/10.1109/LCSYS.2020.3006725)] [[preprint](https://arxiv.org/pdf/2005.12062.pdf)]\
 \
-A. Capone, **A. Lederer**, J. Umlauft, S. Hirche. **"Data Selection for Multi-Task Learning under Dynamic Constraints"**. \
+[1] A. Capone, **A. Lederer**, J. Umlauft, S. Hirche. **"Data Selection for Multi-Task Learning under Dynamic Constraints"**. \
 IEEE Control Systems Letters, 5(3): 959 – 964, 2021.\
 [[paper](https://doi.org/10.1109/LCSYS.2020.3006279)] [[preprint](https://web.archive.org/web/20201103121947id_/http://mediatum.ub.tum.de/doc/1554000/file.pdf)]
 
