@@ -9,10 +9,10 @@ redirect_from:
 
 ### Dr.-Ing. Armin Lederer
 
-Learning & Adaptive Systems Group\
-Institute for Machine Learning\
-Department of Computer Science\
-ETH Zurich
+Department of Electrical and Computer Engineering\
+College of Design and Engineering\
+National University of Singapore
 
-Andreasstr. 5, OAT Y28\
-8050 Zurich, Switzerland
+4 Engineering Drive 3\
+E4-08-20\
+Singapore 117583
