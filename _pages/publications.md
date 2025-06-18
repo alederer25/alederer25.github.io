@@ -20,6 +20,10 @@ arXiv preprint [arXiv:2307.04415](https://arxiv.org/pdf/2307.04415), 2023.
 
 Journal Articles
 ----
+**A. Lederer**, E. Noorani, J. Baras, S. Hirche. **"Risk-Sensitive Safety Filters for Reinforcement Learning with Probabilistic Guarantees"**.\
+IEEE Transactions on Automatic Control, 2025.\
+[[paper](https://ieeexplore.ieee.org/abstract/document/11020782)] [[preprint](https://github.com/alederer25/alederer25.github.io/edit/master/files/TAC3575565.pdf)]\
+\
 S. Tesfazgi, L. Sprandl, **A. Lederer**, S. Hirche. **"Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes"**.\
 IEEE Open Journal of Control Systems, 2024.\
 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10643266)] [[preprint](https://arxiv.org/pdf/2405.08756)]\
