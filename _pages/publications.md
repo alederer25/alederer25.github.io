@@ -60,15 +60,18 @@ IEEE Control Systems Letters, 5(3): 959 – 964, 2021.\
 
 Conference Papers
 ----
-1. P. Bevanda, M. Beier, A. Capone, S. Sosnowski, S. Hirche, **A. Lederer**. **Koopman-Equivariant Gaussian Processes"**.\
+1. A. Begzadic, **A. Lederer**, J. Cortes, S. Herbert.. **"Learning High-Order CBFs using Gaussian Processes for Systems in Brunovsky Canonical Form"**.\
+Proceedings of the IEEE Conference on Decision and Control (accepted), 2025.
+
+1. P. Bevanda, M. Beier, A. Capone, S. Sosnowski, S. Hirche, **A. Lederer**. **"Koopman-Equivariant Gaussian Processes"**.\
 Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS) (accepted), 2025.\
 [[preprint](https://arxiv.org/pdf/2502.06645)]
 
-1. T.-Y. Huang[^1], **A. Lederer[^1]**, N. Hoischen, J. Brüdigam, X. Xiao, S. Sosnowski, S. Hirche. **Toward Near-Globally Optimal Nonlinear Model Predictive Control via Diffusion Models"**.\
+1. T.-Y. Huang[^1], **A. Lederer[^1]**, N. Hoischen, J. Brüdigam, X. Xiao, S. Sosnowski, S. Hirche. **"Toward Near-Globally Optimal Nonlinear Model Predictive Control via Diffusion Models"**.\
 Proceedings of the Conference on Learning for Dynamics and Control (accepted), 2025.\
 [[preprint](https://mediatum.ub.tum.de/doc/1779727)]
 
-1. S. Tesfazgi, M. Keßler, E. Trigili, **"A. Lederer**, S. Hirche. **Data-driven Force Observer for Human-Robot Interaction with Series Elastic Actuators using Gaussian Processes"**.\
+1. S. Tesfazgi, M. Keßler, E. Trigili, **"A. Lederer**, S. Hirche. **"Data-driven Force Observer for Human-Robot Interaction with Series Elastic Actuators using Gaussian Processes"**.\
 Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems, pages 11849-11856, 2024.\
 [[paper](https://ieeexplore.ieee.org/abstract/document/10802608) [preprint](https://arxiv.org/pdf/2405.08711)]
 
