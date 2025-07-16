@@ -12,6 +12,7 @@ table, td, th {
    border: none!important;
 }
 </style>
+| 07/25 | Two papers got accepted at the IEEE Conference on Decision and Control: ['Distributed Risk-Sensitive Safety Filters for Uncertain Discrete-Time Systems'](https://ieeexplore.ieee.org/abstract/document/11036751) and 'Learning High-Order CBFs using Gaussian Processes for Systems in Brunovsky Canonical Form'!  |
 | 06/25 | Our paper 'Distributed Risk-Sensitive Safety Filters for Uncertain Discrete-Time Systems' got accepted to the IEEE Control Systems Letters. Check out the paper [here](https://ieeexplore.ieee.org/abstract/document/11036751)!|
 | 05/25 | Our paper 'Risk-Sensitive Safety Filters for Reinforcement Learning with Probabilistic Guarantees' has been accepted to the IEEE Transactions on Automatic Control. Check out the paper [here](https://ieeexplore.ieee.org/abstract/document/11020782)!|
 | 05/25| I have started as an Assistant Professor in the Department of Electrical and Computer Engineering at the National University of Singapore.|
