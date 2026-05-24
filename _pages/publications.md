@@ -82,6 +82,9 @@ Proceedings of the International Conference on Machine Learning (accepted), 2026
 Proceedings of the European Control Conference (accepted), 2026.\
 [[preprint](https://arxiv.org/pdf/2604.09267)]
 
+1. A. Begzadic[^1], **A. Lederer[^1]**, S. Hirche, S. Herbert, J. Cortes. **"Safe Event-Triggered Learning for Sampled-Data Systems"**.\
+Proceedings of the American Control Conference (accepted), 2026.
+
 1. A. Begzadic, **A. Lederer**, J. Cortes, S. Herbert. **"Learning High-Order CBFs using Gaussian Processes for Systems in Brunovsky Canonical Form"**.\
 Proceedings of the IEEE Conference on Decision and Control, pages 2945-2950, 2025.\
 [[paper](https://ieeexplore.ieee.org/abstract/document/11312868)] [[preprint](http://terrano.ucsd.edu/jorge/publications/data/2025_BeLeCoHe-cdc.pdf)]
