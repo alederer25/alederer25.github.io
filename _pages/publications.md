@@ -11,24 +11,27 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 Preprints
 ----
-1. **A. Lederer[^1]**, A. Begzadic, S. Hirche, J. Cortes, S. Herbert. **"Safe Barrier-Constrained Control of Uncertain Systems via Event-triggered Learning"**.\
-arxiv preprint [arXiv:2408.16144](https://arxiv.org/pdf/2408.16144), 2024.
+
 
 
 
 
 Journal Articles
 ----
+1. **A. Lederer[^1]**, A. Begzadic, S. Hirche, J. Cortes, S. Herbert. **"Safe Barrier-Constrained Control of Uncertain Systems via Event-triggered Learning"**.\
+IEEE Transactions on Automatic Control, 2026
+[[paper](https://ieeexplore.ieee.org/document/11471064)] [[preprint](https://arxiv.org/pdf/2408.16144)]
+
 1. **A. Lederer**, J. Umlauft, S. Hirche. **"Episodic Gaussian Process-Based Learning Control with Vanishing Tracking Errors"**.\
 IEEE Transactions on Automatic Control, 71(2), 962-977, 2026.\
 [[paper](https://ieeexplore.ieee.org/document/11141748)] [[preprint](https://arxiv.org/pdf/2307.04415)]
 
 1. **A. Lederer**, E. Noorani, A. Krause. **"Distributed Risk-Sensitive Safety Filters for Uncertain Discrete-Time Systems"**.\
-IEEE Control Systems Letters, 2025.\
+IEEE Control Systems Letters, 9, 1231-1236 2025.\
 [[paper](https://ieeexplore.ieee.org/document/11036751)] [[preprint](https://arxiv.org/pdf/2506.07347)]
 
 1. **A. Lederer**, E. Noorani, J. Baras, S. Hirche. **"Risk-Sensitive Safety Filters for Reinforcement Learning with Probabilistic Guarantees"**.\
-IEEE Transactions on Automatic Control, 2025.\
+IEEE Transactions on Automatic Control, 70(11), 7414-7429, 2025.\
 [[paper](https://ieeexplore.ieee.org/abstract/document/11020782)] [[preprint](https://github.com/alederer25/alederer25.github.io/blob/master/files/TAC3575565.pdf)]
 
 1. S. Tesfazgi, L. Sprandl, **A. Lederer**, S. Hirche. **"Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes"**.\
