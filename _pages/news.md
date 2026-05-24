@@ -12,6 +12,10 @@ table, td, th {
    border: none!important;
 }
 </style>
+| 05/26 | We got three papers accepted at the International Conference on Machine Learning. You can already check out the preprints  [[here](https://openreview.net/pdf?id=9iAfjtz7lE)], [[here](https://arxiv.org/pdf/2605.09757)] and [[here](https://arxiv.org/pdf/2511.05355)]. Looking forward to discussing the papers with you in Seoul!|
+| 04/26 | Two papers recently got accepted at the IEEE Transactions on Automatic Control. Check out the papers [[here](https://ieeexplore.ieee.org/document/11141748)] and [[here](https://ieeexplore.ieee.org/document/11471064)]. |
+| 03/26 | We got papers accepted at the European Control Conference and the American Control Conference. Check the ECC paper out [[here](https://arxiv.org/pdf/2604.09267)]. |
+| 12/25 | The workshop on Koopman operator theory at the IEEE Conference on Decision and Control co-organized with Igor Mezic, Karl Worthmann, Petar Bevanda and Sandra Hirche was a great success. If you want to check out the presentation slides, you can find them at the conference website [here](https://www.tu-ilmenau.de/cdc25). |
 | 07/25 | Two papers got accepted at the IEEE Conference on Decision and Control: ['Distributed Risk-Sensitive Safety Filters for Uncertain Discrete-Time Systems'](https://ieeexplore.ieee.org/abstract/document/11036751) and 'Learning High-Order CBFs using Gaussian Processes for Systems in Brunovsky Canonical Form'!  |
 | 06/25 | Our paper 'Distributed Risk-Sensitive Safety Filters for Uncertain Discrete-Time Systems' got accepted to the IEEE Control Systems Letters. Check out the paper [here](https://ieeexplore.ieee.org/abstract/document/11036751)!|
 | 05/25 | Our paper 'Risk-Sensitive Safety Filters for Reinforcement Learning with Probabilistic Guarantees' has been accepted to the IEEE Transactions on Automatic Control. Check out the paper [here](https://ieeexplore.ieee.org/abstract/document/11020782)!|
