@@ -66,13 +66,21 @@ IEEE Control Systems Letters, 5(3): 959 – 964, 2021.\
 
 Conference Papers
 ----
-1. A. Begzadic, **A. Lederer**, J. Cortes, S. Herbert.. **"Learning High-Order CBFs using Gaussian Processes for Systems in Brunovsky Canonical Form"**.\
+1. T.-Y. Huang, **A. Lederer**, D.-J. Wu, X. Dai, S. Zhang, S. Sosnowski, S.-H. Sun, S. Hirche. **"SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning"**.\
+Proceedings of the International Conference on Machine Learning (accepted), 2026.\
+[[preprint](https://arxiv.org/pdf/2511.05355)]
+
+1. S. L. N. Hanna, N. Hoischen, S. Hirche, **A. Lederer**. **"On the Existence of Quadratic Control Lyapunov Functions for Koopman-Operator based Bilinear Systems"**.\
+Proceedings of the European Control Conference (accepted), 2026.\
+[[preprint](https://arxiv.org/pdf/2604.09267)]
+
+1. A. Begzadic, **A. Lederer**, J. Cortes, S. Herbert. **"Learning High-Order CBFs using Gaussian Processes for Systems in Brunovsky Canonical Form"**.\
 Proceedings of the IEEE Conference on Decision and Control, pages 2945-2950, 2025.\
 [[paper](https://ieeexplore.ieee.org/abstract/document/11312868)] [[preprint](http://terrano.ucsd.edu/jorge/publications/data/2025_BeLeCoHe-cdc.pdf)]
 
 1. P. Bevanda, M. Beier, A. Capone, S. Sosnowski, S. Hirche, **A. Lederer**. **"Koopman-Equivariant Gaussian Processes"**.\
-Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS) (accepted), 2025.\
-[[preprint](https://arxiv.org/pdf/2502.06645)]
+Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS), pages 3151-3159, 2025.\
+[[paper](https://proceedings.mlr.press/v258/bevanda25a.html)]  [[preprint](https://arxiv.org/pdf/2502.06645)]
 
 1. T.-Y. Huang[^1], **A. Lederer[^1]**, N. Hoischen, J. Brüdigam, X. Xiao, S. Sosnowski, S. Hirche. **"Toward Near-Globally Optimal Nonlinear Model Predictive Control via Diffusion Models"**.\
 Proceedings of the Annual Learning for Dynamics & Control Conference, pages 777-790, 2025.\
