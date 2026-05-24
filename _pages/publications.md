@@ -66,7 +66,7 @@ IEEE Control Systems Letters, 5(3): 959 – 964, 2021.\
 
 Conference Papers
 ----
-**A. Lederer**, A. Srivastava, M. Bagatella, A. Krause. **"Policy Search via Bayesian Optimization with Temporal Difference Gaussian Processes"**\
+1. **A. Lederer**, A. Srivastava, M. Bagatella, A. Krause. **"Policy Search via Bayesian Optimization with Temporal Difference Gaussian Processes"**\
 Proceedings of the International Conference on Machine Learning (accepted), 2026. **(acceptance rate: 26.6%)**\
 [[preprint](https://openreview.net/pdf?id=9iAfjtz7lE)]
 
