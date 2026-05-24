@@ -27,4 +27,4 @@ table, td, th {
 | 03/26 | We got papers accepted at the European Control Conference and the American Control Conference. Check the ECC paper out [[here](https://arxiv.org/pdf/2604.09267)]. |
 | 12/25 | The workshop on Koopman operator theory at the IEEE Conference on Decision and Control co-organized with Igor Mezic, Karl Worthmann, Petar Bevanda and Sandra Hirche was a great success. If you want to check out the presentation slides, you can find them at the conference website [here](https://www.tu-ilmenau.de/cdc25). |
 | 07/25 | Two papers got accepted at the IEEE Conference on Decision and Control: ['Distributed Risk-Sensitive Safety Filters for Uncertain Discrete-Time Systems'](https://ieeexplore.ieee.org/abstract/document/11036751) and 'Learning High-Order CBFs using Gaussian Processes for Systems in Brunovsky Canonical Form'!  |
-| | [More news(https://alederer25.github.io/news/)] |
+| | [More news](https://alederer25.github.io/news/) |
