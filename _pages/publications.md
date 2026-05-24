@@ -18,20 +18,20 @@ Preprints
 
 Journal Articles
 ----
-1. **A. Lederer[^1]**, A. Begzadic, S. Hirche, J. Cortes, S. Herbert. **"Safe Barrier-Constrained Control of Uncertain Systems via Event-triggered Learning"**.\
-IEEE Transactions on Automatic Control, 2026
+1. **A. Lederer[^1]**, A. Begzadic[^1], S. Hirche, J. Cortes, S. Herbert. **"Safe Barrier-Constrained Control of Uncertain Systems via Event-triggered Learning"**.\
+IEEE Transactions on Automatic Control, 2026.\
 [[paper](https://ieeexplore.ieee.org/document/11471064)] [[preprint](https://arxiv.org/pdf/2408.16144)]
 
 1. **A. Lederer**, J. Umlauft, S. Hirche. **"Episodic Gaussian Process-Based Learning Control with Vanishing Tracking Errors"**.\
-IEEE Transactions on Automatic Control, 71(2), 962-977, 2026.\
+IEEE Transactions on Automatic Control, 71(2): 962-977, 2026.\
 [[paper](https://ieeexplore.ieee.org/document/11141748)] [[preprint](https://arxiv.org/pdf/2307.04415)]
 
 1. **A. Lederer**, E. Noorani, A. Krause. **"Distributed Risk-Sensitive Safety Filters for Uncertain Discrete-Time Systems"**.\
-IEEE Control Systems Letters, 9, 1231-1236 2025.\
+IEEE Control Systems Letters, 9: 1231-1236 2025.\
 [[paper](https://ieeexplore.ieee.org/document/11036751)] [[preprint](https://arxiv.org/pdf/2506.07347)]
 
 1. **A. Lederer**, E. Noorani, J. Baras, S. Hirche. **"Risk-Sensitive Safety Filters for Reinforcement Learning with Probabilistic Guarantees"**.\
-IEEE Transactions on Automatic Control, 70(11), 7414-7429, 2025.\
+IEEE Transactions on Automatic Control, 70(11): 7414-7429, 2025.\
 [[paper](https://ieeexplore.ieee.org/abstract/document/11020782)] [[preprint](https://github.com/alederer25/alederer25.github.io/blob/master/files/TAC3575565.pdf)]
 
 1. S. Tesfazgi, L. Sprandl, **A. Lederer**, S. Hirche. **"Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes"**.\
@@ -67,19 +67,20 @@ IEEE Control Systems Letters, 5(3): 959 – 964, 2021.\
 Conference Papers
 ----
 1. A. Begzadic, **A. Lederer**, J. Cortes, S. Herbert.. **"Learning High-Order CBFs using Gaussian Processes for Systems in Brunovsky Canonical Form"**.\
-Proceedings of the IEEE Conference on Decision and Control (accepted), 2025.
+Proceedings of the IEEE Conference on Decision and Control, pages 2945-2950, 2025.\
+[[paper](https://ieeexplore.ieee.org/abstract/document/11312868)] [[preprint](http://terrano.ucsd.edu/jorge/publications/data/2025_BeLeCoHe-cdc.pdf)]
 
 1. P. Bevanda, M. Beier, A. Capone, S. Sosnowski, S. Hirche, **A. Lederer**. **"Koopman-Equivariant Gaussian Processes"**.\
 Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS) (accepted), 2025.\
 [[preprint](https://arxiv.org/pdf/2502.06645)]
 
 1. T.-Y. Huang[^1], **A. Lederer[^1]**, N. Hoischen, J. Brüdigam, X. Xiao, S. Sosnowski, S. Hirche. **"Toward Near-Globally Optimal Nonlinear Model Predictive Control via Diffusion Models"**.\
-Proceedings of the Conference on Learning for Dynamics and Control (accepted), 2025.\
-[[preprint](https://mediatum.ub.tum.de/doc/1779727)]
+Proceedings of the Annual Learning for Dynamics & Control Conference, pages 777-790, 2025.\
+[[paper](https://proceedings.mlr.press/v283/huang25a.html)] [[preprint](https://mediatum.ub.tum.de/doc/1779727)]
 
 1. S. Tesfazgi, M. Keßler, E. Trigili, **"A. Lederer**, S. Hirche. **"Data-driven Force Observer for Human-Robot Interaction with Series Elastic Actuators using Gaussian Processes"**.\
 Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems, pages 11849-11856, 2024.\
-[[paper](https://ieeexplore.ieee.org/abstract/document/10802608) [preprint](https://arxiv.org/pdf/2405.08711)]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10802608)] [[preprint](https://arxiv.org/pdf/2405.08711)]
 
 1. Z. Yang, S. Dong, **A. Lederer**, X. Dai, S. Chen, S. Sosnowski, G. Hattab, S. Hirche. **"Cooperative Learning with Gaussian Processes for Euler-Lagrange Systems Tracking Control under Switching Topologies"**.\
 Proceedings of the American Control Conference, pages  560-567, 2024.\
