@@ -66,8 +66,16 @@ IEEE Control Systems Letters, 5(3): 959 – 964, 2021.\
 
 Conference Papers
 ----
+**A. Lederer**, A. Srivastava, M. Bagatella, A. Krause. **"Policy Search via Bayesian Optimization with Temporal Difference Gaussian Processes"**\
+Proceedings of the International Conference on Machine Learning (accepted), 2026. **(acceptance rate: 26.6%)**\
+[[preprint](https://openreview.net/pdf?id=9iAfjtz7lE)]
+
+1. J. Teutsch, O. Molodchyk, M. Leibold, T. Faulwasser, **A. Lederer**. **"On Uniform Error Bounds for Kernel Regression under Non-Gaussian Noise"**.\
+Proceedings of the International Conference on Machine Learning (accepted), 2026. **(acceptance rate: 26.6%)**\
+[[preprint](https://arxiv.org/pdf/2605.09757)]
+
 1. T.-Y. Huang, **A. Lederer**, D.-J. Wu, X. Dai, S. Zhang, S. Sosnowski, S.-H. Sun, S. Hirche. **"SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning"**.\
-Proceedings of the International Conference on Machine Learning (accepted), 2026.\
+Proceedings of the International Conference on Machine Learning (accepted), 2026. **(acceptance rate: 26.6%)**\
 [[preprint](https://arxiv.org/pdf/2511.05355)]
 
 1. S. L. N. Hanna, N. Hoischen, S. Hirche, **A. Lederer**. **"On the Existence of Quadratic Control Lyapunov Functions for Koopman-Operator based Bilinear Systems"**.\
