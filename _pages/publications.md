@@ -14,12 +14,15 @@ Preprints
 1. **A. Lederer[^1]**, A. Begzadic, S. Hirche, J. Cortes, S. Herbert. **"Safe Barrier-Constrained Control of Uncertain Systems via Event-triggered Learning"**.\
 arxiv preprint [arXiv:2408.16144](https://arxiv.org/pdf/2408.16144), 2024.
 
-1. **A. Lederer**, J. Umlauft, S. Hirche. **"Episodic Gaussian Process-Based Learning Control with Vanishing Tracking Errors"**.\
-arXiv preprint [arXiv:2307.04415](https://arxiv.org/pdf/2307.04415), 2023.
+
 
 
 Journal Articles
 ----
+1. **A. Lederer**, J. Umlauft, S. Hirche. **"Episodic Gaussian Process-Based Learning Control with Vanishing Tracking Errors"**.\
+IEEE Transactions on Automatic Control, 71(2), 962-977, 2026.\
+[[paper](https://ieeexplore.ieee.org/document/11141748)] [[preprint](https://arxiv.org/pdf/2307.04415)]
+
 1. **A. Lederer**, E. Noorani, A. Krause. **"Distributed Risk-Sensitive Safety Filters for Uncertain Discrete-Time Systems"**.\
 IEEE Control Systems Letters, 2025.\
 [[paper](https://ieeexplore.ieee.org/document/11036751)] [[preprint](https://arxiv.org/pdf/2506.07347)]
